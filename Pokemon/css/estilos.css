@@ -1,0 +1,71 @@
+.body_index{
+    background-image: url("../img/login_background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    font-size: 20px;
+    color: white;
+}
+.body_registrar{
+    background-image: url("../img/register_background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    font-size: 20px;
+    color: white;
+}
+
+#imgtitulo{
+	max-width: 100%;
+}
+#login{
+	margin-top: 150px;
+}
+
+#btn_iniciar{
+	background-color: #2e4595 !important;
+	color: white;
+
+}
+
+#register{
+	background-color: rgba(0,0,0,0.5);
+	border-radius: 20px;
+	
+}
+#btn_registrar{
+	background-color: #2e4595 !important;
+	color: white;
+	margin-bottom: 20px;
+
+
+}
+
+.mensaje{
+	background-color: rgba(0.5,0,0,0.5);
+	border-radius: 10px;
+ 	color: white;
+}
+.cambiar_color_user{
+  font-size: 25px !important;
+  color:  #2e4595 !important;
+}
+.cerrar:hover{
+	background-color:  #2e4595 !important;
+}
+.cambiar_color_user:hover{
+   color: yellow;
+}
+
+#body_detalles{
+	background-image: url("../img/fondo_detalles.png");
+}
+#detallespokemon{
+	background-color: rgba(0,0,0,0.5);
+	border-radius: 10px;
+ 	color: white;
+ 	margin-top: 10%;
+}
+.habilidad{
+	font-size: 20px;
+}
